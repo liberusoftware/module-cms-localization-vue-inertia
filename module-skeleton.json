@@ -1,0 +1,15 @@
+{
+  "repository": "module-cms-localization-vue-inertia",
+  "capabilityKey": "planned:cms:localization",
+  "presentation": "laravel-inertia-vue",
+  "package": "@liberusoftware/module-cms-localization-vue-inertia",
+  "foundation": "module-boilerplate-vue-inertia",
+  "foundationCommit": "08a9dc0d2b45a95f966c7dcb8d47db96dee957d2",
+  "canonicalPlan": "projects/cms/nextjs/localization.md",
+  "presentationPlan": "projects/cms/vue/localization.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "cms"
+  ]
+}
